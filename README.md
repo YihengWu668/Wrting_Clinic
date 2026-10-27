@@ -19,7 +19,7 @@ frequency of topics used correctly in this level
 frequency of topics used wrongly in this level 
 stored per word in the file “per 100 words”
 3. share: share of essays that use the topic (use_rate)
-share of all topic uses in this level that belong to this topic (share_of_uses)
+
 4.
 Accuracy (correct uses / all uses)
 accuracy of each essay, all topics together (only look at the total topics of each essay) (accuracy)
